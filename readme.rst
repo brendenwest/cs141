@@ -14,6 +14,7 @@ CIS 141 - Computer Science I
 The first in a two–quarter course introducing basic concepts of computer science & programming with practical exercises using the Java programming language. No prior programming experience is required but is highly recommended.
 
 Students will learn to:
+
 * Create expressions that use data variables, arithmetic, and logical operators
 * Use conditional statements, loops, functions & objects 
 * Use proper syntax and design guidelines when writing a computer program
@@ -21,12 +22,12 @@ Students will learn to:
 
 **Required Materials**
 
-Building Java Programs (BJP), 5th edition by Stuart Reges & Marty Stepp ISBN 978-0135471944
+* `Building Java Programs (BJP), 5th edition<https://www.buildingjavaprograms.com/>`_ by Stuart Reges & Marty Stepp ISBN 978-0135471944
 
 Students will also need the following:
 
 * A computer capable of compiling & running Java programs
-* IntelliJ IDEA (community version) https://www.jetbrains.com/idea/,
+* `IntelliJ IDEA (community version)< >https://www.jetbrains.com/idea/>`_,
 * An account at https://practiceit.cs.washington.edu/
 * An account at https://replit.com
 
