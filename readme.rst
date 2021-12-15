@@ -22,12 +22,12 @@ Students will learn to:
 
 **Required Materials**
 
-* `Building Java Programs (BJP), 5th edition<https://www.buildingjavaprograms.com/>`_ by Stuart Reges & Marty Stepp ISBN 978-0135471944
+* `Building Java Programs (BJP), 5th edition <https://www.buildingjavaprograms.com/>`_ by Stuart Reges & Marty Stepp ISBN 978-0135471944
 
 Students will also need the following:
 
 * A computer capable of compiling & running Java programs
-* `IntelliJ IDEA (community version)< >https://www.jetbrains.com/idea/>`_,
+* `IntelliJ IDEA (community version) <https://www.jetbrains.com/idea/>`_,
 * An account at https://practiceit.cs.washington.edu/
 * An account at https://replit.com
 
