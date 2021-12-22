@@ -148,9 +148,9 @@ Numbers can be used in a set of operations that produces a value.
 
 Java supports common mathematical operators.
 
-==========  ===================
+===========  ==================
 Operator         Meaning
-==========  ===================
+===========  ==================
  +           addition
  -           subtraction
  *           multiplication
