@@ -151,11 +151,11 @@ Java supports common mathematical operators.
 ===========  ==================
 Operator         Meaning
 ===========  ==================
- +           addition
- -           subtraction
- *           multiplication
- /           division
- %           remainder or mod
+ \+           addition
+ \-           subtraction
+ \*           multiplication
+ /            division
+ %            remainder or mod
 ===========  ==================
 
 The division operator evaluates to a whole number and truncates any value after the decimal point. For example:
