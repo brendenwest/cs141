@@ -129,14 +129,14 @@ Names for parts of a Java program must follow certain rules:
 
 Java has eight **primitive* data types that are building blocks for other more complex code features. The most common are:
 
-==========  ================== ========================
+===========  ================== ========================
 Type         Description             Examples
-==========  ================== ========================
+===========  ================== ========================
 int           whole numbers      5, 57, -5, 0
 double        real numbers       1.25, -1.25
 char          single characters  'a', 'b', '#'
 boolean       logical values     true, false
-===========  ================== =======================
+===========  ================== ========================
 
 **Expressions**
 
