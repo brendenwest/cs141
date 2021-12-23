@@ -36,11 +36,12 @@ Students will also need the following:
 Each week, we'll cover a different topic, building on the previous week's work. In general, we will cover new material in Tuesday lectures and use Wednesday labs to practice what you’ve learned. We will cover the following topics, although the order and precise list is subject to revision:
 
 #. Intro to Computer Science & Java Programming
-#. Basic Data Types & Expressions
-#. Functions
-#. Conditional execution
+#. Primitive Data Types & Expressions
+#. Definite Loops
+#. Functions & Parameters
+#. Conditional Execution
 #. Indefinite Loops
-#. Strings & file processing
+#. Strings & File Processing
 #. Arrays
 #. Classes & Objects Oriented Programming
 #. Inheritance & Abstraction
