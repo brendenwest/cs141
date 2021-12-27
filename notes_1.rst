@@ -3,7 +3,7 @@ Intro to Programming
 =====
 
 **Reading**
-* Building Java Programs, Ch. 1.1 - 1.3, 2.1
+* Building Java Programs, Ch. 1.1 - 1.3
 
 **Summary**
 
@@ -109,65 +109,32 @@ Literal sequence of characters delimited by double quotes.
 
 Double-quotes inside the string must be *escaped* with a backslash.
 ::
-    "tonight's episode of \"Game of Thrones\" was awesome"
+    System.out.println("tonight's episode of \"Game of Thrones\" was awesome");
 
 Strings can contain **control** characters - e.g. tab or new-line:
 ::
-    "this should print \n on two lines"
+    System.out.println("this should print \n on two lines");
+
+Strings can be combined (**concatenated**) with a plus sign:
+::
+    System.out.println("this " + "and that");
+
+Strings can be concatenated with non-string values into a new string:
+::
+    System.out.println("Happy New Year " + 2022 + "!");
 
 **Identifiers**
 
 Names for parts of a Java program must follow certain rules:
 
 - must start with a letter
-- can contain any numer of letters or digits
+- can contain any number of letters or digits
 - cannot contain special characters (e.g. punctuation) or spaces
 - usually lower-case, except for class names
 - cannot be a **reserved** word that has meaning in Java
 
-**Primitive Data Types**
-
-Java has eight **primitive* data types that are building blocks for other more complex code features. The most common are:
-
-===========  ================== ========================
-Type         Description             Examples
-===========  ================== ========================
-int           whole numbers      5, 57, -5, 0
-double        real numbers       1.25, -1.25
-char          single characters  'a', 'b', '#'
-boolean       logical values     true, false
-===========  ================== ========================
-
-**Expressions**
-
-Numbers can be used in a set of operations that produces a value.
-
-::
-    (2 * 3) + 4 - 5
-    System.out.println(2 + 2);
-
-Java supports common mathematical operators.
-
-===========  ==================
-Operator         Meaning
-===========  ==================
- \+           addition
- \-           subtraction
- \*           multiplication
- /            division
- %            remainder or mod
-===========  ==================
-
-The division operator evaluates to a whole number and truncates any value after the decimal point. For example:
-::
-    19 / 5 evaluates to 3
-
-The remainder (mod) operator provides the remainder of a division operation. For example:
-::
-    19 % 5 evaluates to 4
-
-
-**Terms**
+Terms
+____
 
 * class - a basic, re-usable unit of code
 * comment - explanatory text ignored by the compiler
@@ -177,4 +144,4 @@ The remainder (mod) operator provides the remainder of a division operation. For
 * method - a program unit for a particular action or computation
 * program - a list of instructions to be carried out by the computer
 * statement - code that represents a single, complete command
-* string - a sequence of characters delimted by double quotes
+* string - a sequence of characters delimited by double quotes
