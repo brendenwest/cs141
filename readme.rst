@@ -3,10 +3,10 @@ CIS 141 - Computer Science I
 
 **Class Details**
 
-* Location:
-* Time:
-* Dates:  01/03/2022 -
-* Instructor: Brenden West | brenden.west@seattlecolleges.edu
+* Location: Online
+* Time: Mondays, 6:00 - 8:20 pm
+* Dates:  01/03/2022 - 03/23/2022
+* Instructor: Brenden West | bwest@pierce.ctc.edu
 * Prerequisites: Math 141 with a grade of at least 2.0
 
 **Summary**
@@ -28,8 +28,8 @@ Students will also need the following:
 
 * A computer capable of compiling & running Java programs
 * `IntelliJ IDEA (community version) <https://www.jetbrains.com/idea/>`_,
-* An account at https://practiceit.cs.washington.edu/
-* An account at https://replit.com
+* An account at https://www.codestepbystep.com/ (using youyr Pierce College email)
+* An account at https://replit.com (optional)
 
 **Class Structure and Topics**
 
@@ -53,7 +53,5 @@ Each week, we'll cover a different topic, building on the previous week's work. 
 **Resources**
 
 * https://code.visualstudio.com/docs/java/java-tutorial
-* https://practiceit.cs.washington.edu/
+* https://www.codestepbystep.com/
 * https://replit.com
-
-
