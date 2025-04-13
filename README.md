@@ -4,7 +4,7 @@ CIS 141 - Computer Science I
 ### Class Details
 
 * Location: Online
-* Time: Mondays, 6:00 - 8:20 pm
+* Time: (optional) Mondays, 6:00 - 7:00 pm
 * Dates:  04/07/2025 - 06/23/2025
 * Instructor: Brenden West | bwest@pierce.ctc.edu
 * Prerequisites: Math 141 with a grade of at least 2.0
